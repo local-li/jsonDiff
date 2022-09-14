@@ -128,3 +128,5 @@ class {
 
 由于json结构在单个看来，就只有对象和数组两种类型，该工具完美支持了所有类型。
 
+交流群：
+![](http://typora.xiaoandcai.cn/typora-weidian-mac/20220914225028.png?me-host=weidian-mac)
